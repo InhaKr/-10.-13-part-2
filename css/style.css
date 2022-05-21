@@ -1,0 +1,9 @@
+.container {
+  height: 150px;
+  position: relative;
+  border: 2px solid red;
+}
+
+.marker {
+   position: absolute;
+}
